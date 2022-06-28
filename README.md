@@ -1,4 +1,6 @@
-# Courses List App
+# RS Project
+
+Link to deployment - https://625d9c1493d26174ccd93606--reactt-components.netlify.app
 
 <h3>Stack:</h3>
 
