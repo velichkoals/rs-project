@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Vespers I",
+    "author": "Christoph Bader",
+    "likes": 762,
+    "views": 1.3
+  },
+  {
+    "id": 2,
+    "title": "Vespers: Series II",
+    "author": "Neri Oxman",
+    "likes": 1331,
+    "views": 1854
+  },
+  {
+    "id": 3,
+    "title": "Imaginary Beings",
+    "author": "Neri Oxman",
+    "likes": 988,
+    "views": 2030
+  },
+  {
+    "id": 4,
+    "title": "Vinyl Design for 'Fuga in Egitto",
+    "author": "Michelangelo Greco",
+    "likes": 697,
+    "views": 5491
+  },
+  {
+    "id": 5,
+    "title": "Making Data Matter",
+    "author": "Christoph Bader",
+    "likes": 925,
+    "views": 1232
+  },
+  {
+    "id": 6,
+    "title": "Vapour II",
+    "author": "Nick Taylor",
+    "likes": 1618,
+    "views": 3811
+  },
+  {
+    "id": 7,
+    "title": "Arena Borghesi Cinema, 2018",
+    "author": "Matteo Vandelli",
+    "likes": 980,
+    "views": 2365
+  },
+  {
+    "id": 8,
+    "title": "Portraits",
+    "author": "Dimitris Ladopoulos",
+    "likes": 1320,
+    "views": 11230
+  },
+  {
+    "id": 9,
+    "title": "I wish it were as easy to banish",
+    "author": "Joris Wegner",
+    "likes": 181,
+    "views": 462
+  },
+  {
+    "id": 10,
+    "title": "Lazarus",
+    "author": "Neri Oxman",
+    "likes": 829,
+    "views": 1925
+  },
+  {
+    "id": 11,
+    "title": "ABologna's Atlas of Civic Movements",
+    "author": "Giacomo Nanni",
+    "likes": 2568,
+    "views": 3404
+  },
+  {
+    "id": 12,
+    "title": "Structures II",
+    "author": "Nicolas Berger",
+    "likes": 123,
+    "views": 940
+  }
+]

@@ -1,0 +1,20 @@
+.header__item {
+    background-color: #f7f7f7;
+    color: #6752dc;
+    padding: 0 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+.header__item:hover {
+    text-decoration: underline;
+    color: #9a4fe1;
+    transition: .3s ease-in-out color;
+}
+.header-wrapper{
+    position: relative;
+}
+
+.header__item__profile {
+    position: absolute;
+    right: 4rem;
+}
